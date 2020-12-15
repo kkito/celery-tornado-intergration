@@ -1,4 +1,4 @@
-from celery import Celery, platforms
+from celery import Celery
 
 task_list = [
     'celery_app.tasks'
