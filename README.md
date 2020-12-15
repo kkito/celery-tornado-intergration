@@ -28,4 +28,5 @@ should install redis see  `celery/config.py`
 ## current workaround
 
 `export PYTHONPATH=.`
+
 `pipenv run python run_fix.py`
